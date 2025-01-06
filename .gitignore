@@ -1,0 +1,63 @@
+# Windows-specific files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio specific
+.vscode/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.log
+ipch/
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ipdb
+*.tlog
+*.lastbuildstate
+*.vspscc
+*.vssscc
+
+# Build output
+Build/
+Release/
+Debug/
+*.exe
+*.dll
+*.lib
+*.exp
+*.log
+*.ilk
+*.map
+*.idb
+*.ncb
+*.sbr
+*.aps
+*.bsc
+*.tlb
+*.ocx
+*.res
+*.rsp
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Generated files
+*.g.*
+*.g.i.*
+*.designer.*
+*.assemblyattributes.*
+
+# NuGet
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
